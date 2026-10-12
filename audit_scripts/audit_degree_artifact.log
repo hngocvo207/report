@@ -1,0 +1,10 @@
+degree_only_test {'auprc': 0.0123, 'roc_auc': 0.9372, 'p_at_100': 0.01, 'recall_at_1000': 0.0601, 'n': 487855, 'n_pos': 233, 'prevalence': 0.0005}
+degree_only_val {'auprc': 0.0168, 'roc_auc': 0.9212, 'p_at_100': 0.0, 'recall_at_1000': 0.1714, 'n': 268352, 'n_pos': 175, 'prevalence': 0.0007}
+test_subset_deg_ge2 {'nodes': 99581, 'phishers': 223, 'frac_nodes_kept': 0.2041}
+gbm_new23_seed0_full_test {'auprc': 0.3638, 'roc_auc': 0.9762, 'p_at_100': 0.65, 'recall_at_1000': 0.6352, 'n': 487855, 'n_pos': 233, 'prevalence': 0.0005}
+gbm_new23_seed0_deg_ge2 {'auprc': 0.3845, 'roc_auc': 0.9692, 'p_at_100': 0.65, 'recall_at_1000': 0.6816, 'n': 99581, 'n_pos': 223, 'prevalence': 0.0022}
+degree_only_deg_ge2 {'auprc': 0.0128, 'roc_auc': 0.8103, 'p_at_100': 0.01, 'recall_at_1000': 0.0628, 'n': 99581, 'n_pos': 223, 'prevalence': 0.0022}
+gbm_new18_seed0_full_test {'auprc': 0.3205, 'roc_auc': 0.9751, 'p_at_100': 0.55, 'recall_at_1000': 0.588, 'n': 487855, 'n_pos': 233, 'prevalence': 0.0005}
+gbm_new18_seed0_deg_ge2 {'auprc': 0.3364, 'roc_auc': 0.966, 'p_at_100': 0.55, 'recall_at_1000': 0.6143, 'n': 99581, 'n_pos': 223, 'prevalence': 0.0022}
+gbm_old23_seed0_full_test {'auprc': 0.4192, 'roc_auc': 0.9814, 'p_at_100': 0.67, 'recall_at_1000': 0.7082, 'n': 487855, 'n_pos': 233, 'prevalence': 0.0005}
+gbm_old23_seed0_deg_ge2 {'auprc': 0.4429, 'roc_auc': 0.9826, 'p_at_100': 0.68, 'recall_at_1000': 0.7578, 'n': 99581, 'n_pos': 223, 'prevalence': 0.0022}

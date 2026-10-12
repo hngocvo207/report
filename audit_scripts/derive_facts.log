@@ -1,0 +1,19 @@
+zero_value_edges_pct 67.54
+duplicate_edges_pct 11.0
+train_nodes_T_after_t1_pct 9.64
+val_nodes_T_after_t2_pct 93.62
+normal_deg1_at_Tv_pct 68.06
+phisher_deg1_at_Tv_pct 3.95
+normal_hop2_deg1_pct 59.74
+normal_hop2_share_of_normals_pct 87.66
+test_subset_deg_ge2_kept_pct 20.41
+test_phishers_removed_by_deg_ge2 10
+gnn_in_val_auprc_mean 0.4154
+gnn_in_val_threshold_min 0.986 max 0.999
+gnn_bidir_val_auprc_mean 0.4726
+gnn_bidir_val_threshold_min 0.972 max 1.000
+gnn_in_g3_val_auprc_mean 0.4048
+gnn_in_g3_val_threshold_min 0.986 max 0.997
+gnn_bidir_g3_val_auprc_mean 0.4908
+gnn_bidir_g3_val_threshold_min 0.971 max 1.000
+gbm_new23_val_auprc_mean 0.3790

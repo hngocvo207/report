@@ -1,0 +1,32 @@
+queried_at 2026-10-11T16:47Z
+dcszhang/Dynamic_Feature | license None | pushed 2025-01-19 | open_issues 1 | archived False
+  license_files: []
+lmae4eth/LMAE4Eth | license None | pushed 2025-12-12 | open_issues 1 | archived False
+  license_files: []
+lincozz/TLmGNN | license Apache-2.0 | pushed 2025-05-02 | open_issues 2 | archived False
+  license_files: ['LICENSE']
+junhongmit/FraudGT | license None | pushed 2025-06-05 | open_issues 2 | archived False
+  license_files: []
+pyg-team/pytorch_geometric | license MIT | pushed 2026-10-06 | open_issues 1373 | archived False
+  license_files: ['LICENSE']
+dmlc/dgl | license Apache-2.0 | pushed 2025-07-31 | open_issues 610 | archived False
+  license_files: ['LICENSE']
+scikit-learn/scikit-learn | license BSD-3-Clause | pushed 2026-10-10 | open_issues 2165 | archived False
+  license_files: ['COPYING']
+lightgbm-org/LightGBM | license MIT | pushed 2026-10-11 | open_issues 539 | archived False
+  license_files: ['LICENSE']
+dmlc/xgboost | license Apache-2.0 | pushed 2026-10-11 | open_issues 456 | archived False
+  license_files: ['LICENSE']
+twitter-research/tgn | license Apache-2.0 | pushed 2024-05-28 | open_issues 15 | archived False
+  license_files: ['LICENSE']
+yule-BUAA/DyGLib | license MIT | pushed 2023-09-28 | open_issues 10 | archived False
+  license_files: ['LICENSE']
+shenyangHuang/TGB | license MIT | pushed 2026-07-27 | open_issues 14 | archived False
+  license_files: ['LICENSE']
+THUDM/GraphMAE | license None | pushed 2023-04-12 | open_issues 11 | archived False
+  license_files: ['LICENSE']
+git-disl/BERT4ETH | license None | pushed 2024-06-21 | open_issues 0 | archived False
+  license_files: []
+PonderLY/PC-GNN | license None | pushed 2021-12-26 | open_issues 8 | archived False
+  license_files: []
+THUDM/GraphMAE LICENSE first line: MIT License
